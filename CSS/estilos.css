@@ -30,7 +30,3 @@ body{
 #cabecera li{
     display: inline-block;
 }
-
-#cabecera ul{
-    text-decoration: none;
-}
