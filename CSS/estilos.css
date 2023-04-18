@@ -30,3 +30,7 @@ body{
 #cabecera li{
     display: inline-block;
 }
+
+.logo img{
+    width: 125px;
+}
