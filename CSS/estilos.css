@@ -30,3 +30,17 @@ body{
 #cabecera li{
     display: inline-block;
 }
+
+footer{
+    background-color: blueviolet;
+    height: 50px;
+    width: 70%;
+    margin: 0 auto;
+    padding: 0.5em;
+    
+}
+
+footer p{
+    font-size: 25px;
+    color: beige;
+}
